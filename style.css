@@ -35,6 +35,10 @@
     text-transform: uppercase;
     color: #fff;
 }
+#item li a:hover, #item .icon i:hover{
+   color: #ff5733;
+   cursor: pointer;
+}   
 #item .icon i{
     color: #fff;
     padding-right: 30px;
@@ -72,6 +76,7 @@
    border-radius: 50px;
    margin-top: 20px;
    text-align: center;
+    cursor: pointer;
 }
 .back .overlay{
    background-color: #171819;
