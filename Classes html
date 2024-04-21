@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Website for our Fitness Club</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="nav">
+        <h2>FIT FUSION</h2>
+        <ul id="item">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="facilities.html">Facilities</a></li>
+            <li><a href="classes.html">Classes</a></li>
+            <li><a href="equipment.html">Equipments</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <div class="icon">
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-youtube"></i>
+                <i class="fa-brands fa-instagram"></i>
+            </div>
+        </ul>
+    </div>
+    
+    
+                                
+    <section class="contact-section">
+        <div class="contact-bg">
+            <h3>Keep yourself healthy & in shape</h3>
+            <h2>GO HARD OR GO HOME</h2>
+            <div class="line">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <p class="text">improve your brain health, help manage weight, reduce the risk of disease, 
+                strengthen bones and muscles, and improve your ability to do everyday activities.</p>
+        </div>
+
+    
+    <div class="class">
+        <p class="paragraph">Get a Perfect Body</p>
+        <h2 class="h2">Our Training Classes</h2>
+        <div class="classMenu">
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/kine.jpeg">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>KINESITHERAPY</h4>
+                            <p>Trained by ~ <span>Gia</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>Kinesitherapy is defined as movement therapy. It is based on the knowledge of biomechanics 
+                            and pathologies of the musculoskeletal system, which help diagnose various causes of your 
+                            symptoms. Moreover, the use of muscular relaxation techniques.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/building.jpg">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>BODYBUILDING</h4>
+                            <p>Trained by ~ <span>Aiden</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>We will help you learn some really effective ways and strategies to gain or lose a few more pounds and build
+                             muscles. Not only this,we can also help you ace the right position during workouts. So if you are a
+                              fitness enthusiast, this is probably the best place for you to learn from.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/boxing.jpg">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>BOXING</h4>
+                            <p>Trained by ~ <span>James</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>Boxing classes are a fusion of strength and cardio workouts, along with boxing 
+                            techniques that can be tailored to any level of skill or athletic ability. 
+                            You have the option to choose from our trainer led group classes or personal training.</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="classMenu-1">
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/personal.webp">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>PERSONAL TRAINING</h4>
+                            <p>Trained by ~ <span>Andrew</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>Personal training is there to help you achieve certain fitness goals, including but not limited to
+                             weight Loss, strength, toning, or overall health management. Since each of us has an extremely 
+                             different fitness Level than personal training requires an individual approach.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/yoga.jpg">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>YOGA</h4>
+                            <p>Trained by ~ <span>Amit</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>Work on strength and mobility with Vinyasa, Hatha or Ashtanga, relax deeply with 
+                            a Yin or Restorative yoga class, gain clarity and focus through meditation and breathwork.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="team1">
+                <div class="img">
+                    <img src="Images/physical-therapy.jpg">
+                </div>
+                <div class="teamDetails">
+                    <div class="name">
+                        <div class="nameDetails">
+                            <h4>PHYSICAL THERAPY</h4>
+                            <p>Trained by ~ <span>Rajiv & Jennisa</span></p>
+                        </div>
+                    </div>
+                    <div class="pro">
+                        <p>Physical therapy is for everyone experiencing debilitating pain or 
+                            limitation in scope of their movements due to injury. Also, the focus can be on prevention
+                             and care. For example, if you have chronic lower back pain and you want to avoid injury or
+                              further pain in the future, I might be able to help you build strength and 
+                              use strategies to protect your physical health and well-being.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <section class="section__container price__container">
+            <h2 class="section__header">OUR MEMBERSHIP PLAN</h2>
+            <p class="section__subheader">
+              Our pricing plan comes with various membership tiers, each tailored to
+              cater to different preferences and fitness aspirations.
+            </p>
+            <div class="price__grid">
+              <div class="price__card">
+                <div class="price__card__content">
+                    <h4>BASIC PLAN</h4>
+                  <h3>$16</h3>
+                    <p>Basic training plans</p>
+                    <p>Personalized meal plans</p>
+                    <p>Monthly newsletter with fitness tips</p>
+                </div>
+                <button class="btn price__btn">Join Now</button>
+              </div>
+
+              <div class="price__card">
+                <div class="price__card__content">
+                  <h4>STUDENT PLAN</h4>
+                  <h3>$22.99</h3>
+                  <p>Basic training plans</p>
+                  <p>Personalized meal plans</p>
+                  <p>Monthly newsletter with fitness tips</p>
+                   <p>Exclusive fitness challenges</p>
+                  <p>Access to progress tracking features</p>
+                </div>
+                <button class="btn price__btn">Join Now</button>
+              </div>
+
+              <div class="price__card">
+                <div class="price__card__content">
+                  <h4>PREMIUM PLAN</h4>
+                  <h3>$45</h3>
+                  <p>Basic training plans</p>
+                  <p>Personalized meal plans</p>
+                  <p>Monthly newsletter with fitness tips</p>
+                   <p>Exclusive fitness challenges</p>
+                  <p>Access to progress tracking features</p>
+                  <p>Monthly online coaching sessions</p>
+                  <p>Personalized workout plans</p>
+                </div>
+                <button class="btn price__btn">Join Now</button>
+              </div>
+            </div>
+          </section>
+      
+        
+
+   
+
+        
+
+
+
+</body>
+
+</html>
